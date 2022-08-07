@@ -1,5 +1,5 @@
 # **Store Sales EDA and Customer Segmentation Analysis**
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://syunar-22-02-store-sales-analysis-customer-segmentat-app-32yy9b.streamlitapp.com/)
 ## Table of Contents:
 1. Purpose
 2. Quick Overview
