@@ -219,6 +219,7 @@ st.write("""
 # Customer Segmentation
 by using RFM Customer Segmentation methon and then use KMeans Clustering
 """)
+st.markdown('_[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syunar/22-02_Store-Sales-Analysis-Customer-Segmentation)_')
 ################################################################################
 # Main panel
 
