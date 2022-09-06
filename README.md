@@ -30,3 +30,5 @@ M - Monetary : Total sales
 And the last question:
 - In our store which customer segment that we have the most?
 - Some use case exmaple by using RFM analysis
+
+[Full Code](https://github.com/syunar/22-02_Store-Sales-Analysis-Customer-Segmentation/blob/507ad6feb0f83954e9c41c94e8e5b7c3970943e1/Store%20Sales%20EDA%20and%20Customer%20Segmentation%20Analysis.ipynb)
